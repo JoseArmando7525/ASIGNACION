@@ -1,0 +1,15 @@
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\bin\Debug\ASIGNACION1.exe.config
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\bin\Debug\ASIGNACION1.exe
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\bin\Debug\ASIGNACION1.pdb
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.Form1.resources
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.Properties.Resources.resources
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.csproj.GenerateResource.cache
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.exe
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.pdb
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.Login.resources
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.Banner.resources
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.Principal.resources
+C:\Users\Lenovo\visual studio\ASIGNACION1\ASIGNACION1\obj\Debug\ASIGNACION1.Inicio.resources
